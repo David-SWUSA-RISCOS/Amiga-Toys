@@ -11,3 +11,5 @@ All code here is released under the MIT license, so feel free to use it if you f
 
 
 Sorry for this being a bit on the slow side.  Have not been doing much with any computers lately.
+
+Finaly might actually get something in this repo before too long.   I had been to focused on other things, that are not as worthy.  Now I am getting back into IIgs, Amiga, and Macintosh mode where I should have stayed.
