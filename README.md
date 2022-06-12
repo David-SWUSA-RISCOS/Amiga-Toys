@@ -9,7 +9,7 @@ May be of use as sample code to some, who knows.
 
 All code here is released under the MIT license, so feel free to use it if you find it useful.
 
-I will be slowly expanding on the github WiKi for this repository, with the intent of having fun, and providing some simple documentation that may be of use to other IIgs users.
+I will be slowly expanding on the [github WiKi for this repository](https://github.com/David-SWUSA-RISCOS/IIgs-Play/wiki) , with the intent of having fun, and providing some simple documentation that may be of use to other IIgs users.
 
 
 Sorry for this being a bit on the slow side.  Have not been doing much with any computers lately.
